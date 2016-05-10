@@ -1,0 +1,14 @@
+layout_spectrum: 0.4053851
+typography_spectrum: 0.04781891
+color:
+  saturation: 0.02672244
+  lightness: 0.3608052
+  brandStrength: 0.3961169
+  rhythmicContrast: 0.401114
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: KravMaga
